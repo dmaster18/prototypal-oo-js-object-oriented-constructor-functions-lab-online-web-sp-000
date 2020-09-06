@@ -7,7 +7,7 @@ class Scooter {
 }
 
 class Scooter {
-  function Scooter(name, age, experience) {
+  constructor (name, age, experience) {
   this.name = name;
   this.age = age;
   this.experience = experience;
