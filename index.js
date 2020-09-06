@@ -19,3 +19,4 @@ class PickupLocation {
   this.address = address;
   this.city = city;
 }
+}
