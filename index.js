@@ -6,7 +6,8 @@ class Scooter {
 }
 }
 
-function Scooter(name, age, experience) {
+class Scooter {
+  function Scooter(name, age, experience) {
   this.name = name;
   this.age = age;
   this.experience = experience;
