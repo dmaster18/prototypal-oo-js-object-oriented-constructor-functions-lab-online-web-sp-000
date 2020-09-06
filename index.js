@@ -12,6 +12,7 @@ class Scooter {
   this.age = age;
   this.experience = experience;
 }
+}
 
 function PickupLocation(address, city) {
   this.address = address;
